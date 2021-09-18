@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Heading from './components/Heading';
+import TextArea from './components/TextArea';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Navbar/>
       <Heading/>
+      <TextArea/>
     </div>
   );
 }
