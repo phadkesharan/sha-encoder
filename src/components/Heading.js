@@ -5,7 +5,7 @@ export default function Heading() {
         <div>
             <h1>Welcome the Secure hash Generator</h1>
             <div class="alert alert-success" role="alert">
-                Input any text and convert it into Hash Code!
+                Input any text and convert it into Hash Code using SHA - 256 Algorithm!
             </div>
         </div>
     )
